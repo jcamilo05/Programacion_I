@@ -1,1 +1,6 @@
-This Repo contains exercises from the first workshop of the Programming I course at the University of Manizales
+Taller realizado por:
+
+Jheimy Cortés Ramirez 
+Cristian Felipe Barreto
+Victor Hugo Odoñez
+Juan Camilo Giraldo Aristizábal
