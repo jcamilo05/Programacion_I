@@ -9,7 +9,7 @@ La primera carpeta incluye 10 ejercicios prácticos diseñados para reforzar con
 
 El segundo archivo contiene el proyecto final, una aplicación de consola que simula el funcionamiento de un corresponsal bancario, con dos tipos de roles:
 
-**Usuario: **
+**Usuario:**
 Debe crear una cuenta para poder operar. Si no tiene cuenta, no podrá acceder a ninguna funcionalidad.
 
 Puede:
